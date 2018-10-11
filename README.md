@@ -1,5 +1,8 @@
 # hello-world
-my first repository
+# my first repository
 
-name: zangct
-email: zangchunting@gmail.com
+# name  : zangct
+# email : zangchunting@gmail.com
+
+
+
